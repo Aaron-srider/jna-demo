@@ -1,1 +1,0 @@
-/usr/local/lib/jna-demo/libjna-demo-native.so

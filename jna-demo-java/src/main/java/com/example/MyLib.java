@@ -11,6 +11,12 @@ public interface MyLib extends Library {
 
     public void hello();
 
+    public boolean return_bool_true();
+    public boolean return_bool_false();
+
+    public void pass_boolean_2_bool(boolean bool);
+    public void pass_int_2_bool(int bool);
+
     public void int_pointer(Pointer pint);
     public void const_int_pointer(Pointer pint);
 

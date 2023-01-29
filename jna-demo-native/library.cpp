@@ -38,3 +38,38 @@ void pointer_pointer(unsigned char **pp, int len) {
         p[i] = i;
     }
 }
+
+void pass_boolean_2_bool(bool value) {
+    std::cout << value << std::endl;
+    std::cout << !value << std::endl;
+    if (!value) {
+        std::cout << "false" << std::endl;
+    }
+    else {
+        std::cout << "true" << std::endl;
+    }
+}
+
+
+void pass_int_2_bool(bool value) {
+    std::cout << "true" << ":" << true << std::endl;
+    std::cout << "false" << ":" << false << std::endl;
+    std::cout << value << std::endl;
+    std::cout << !value << std::endl;
+
+    if (!value) {
+        std::cout << "false" << std::endl;
+    }
+    else {
+        std::cout << "true" << std::endl;
+    }
+}
+
+bool return_bool_true() {
+    return true;
+}
+
+bool return_bool_false() {
+    return false;
+}
+

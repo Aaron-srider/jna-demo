@@ -8,7 +8,12 @@ import com.sun.jna.ptr.PointerByReference;
 
 public class Driven {
     public static void main(String[] args) {
-        MyLib.SINGLETON.hello();
+
+        System.out.println(MyLib.SINGLETON.return_bool_true());
+        System.out.println(MyLib.SINGLETON.return_bool_false());
+
+        MyLib.SINGLETON.pass_int_2_bool(1);
+        MyLib.SINGLETON.pass_int_2_bool(0);
 
         //  *(         (void **)(    (char *)Pointer + offset      )      ) = value.
 

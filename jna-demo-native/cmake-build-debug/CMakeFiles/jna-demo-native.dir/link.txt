@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libjna-demo-native.so -o libjna-demo-native.so CMakeFiles/jna-demo-native.dir/library.cpp.o 

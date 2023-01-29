@@ -1,7 +1,0 @@
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/install/local.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/jna-demo-native.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/install.dir
-/home/chaowen/projects/java/jna-demo/jna-demo-native/cmake-build-debug/CMakeFiles/list_install_components.dir
